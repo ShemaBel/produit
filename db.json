@@ -1,16 +1,18 @@
 {
   "variants":[
-    {  "name":"chaussette",
+    {  
+      "name":"chaussette",
       "id":2001,
       "color": "green",
-      "image": "require('@/assets/socks_green.jpg')",
+      "image": "https://example.com/assets/socks_green.jpg",
       "quantity": 50,
       "details":["50% coton","30% laine","20% polyester"]
     },
-    {  "name":"chaussette",
+    {  
+      "name":"chaussette",
       "id":2002,
       "color": "blue",
-      "image": "require('@/assets/socks_blue.jpg')",
+      "image": "https://example.com/assets/socks_blue.jpg",
       "quantity": 0,
       "details":["50% coton","30% laine","20% polyester"]
     }
